@@ -1,0 +1,12 @@
+{
+  "name": "code-backup-runner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thamudi/code-backup-runner.git",
+  "author": "thamudi <tamim.hamoudi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
